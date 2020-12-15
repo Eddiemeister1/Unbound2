@@ -14,13 +14,911 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Aligned Games.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials/atlass_1.mat
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials/atlass_1.mat.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/RifleBullet_1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/RifleBullet_1/rifle_bullet_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/RifleBullet_1/rifle_bullet_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/RifleBullet_1/rifle_bullet_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/RifleBullet_1/rifle_bullet_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/Rocket1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/Rocket1/rocket_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/Rocket1/rocket_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/Rocket1/rocket_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/Rocket1/rocket_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/ShotgunBullet1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/ShotgunBullet1/shotgun_bullet_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/ShotgunBullet1/shotgun_bullet_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/ShotgunBullet1/shotgun_bullet_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition/ShotgunBullet1/shotgun_bullet_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Compensator1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Compensator1/compensator_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Compensator1/compensator_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Compensator1/compensator_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Compensator1/compensator_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Fitment1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Fitment1/fitment_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Fitment1/fitment_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Fitment1/fitment_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Fitment1/fitment_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Flashlight1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Flashlight1/flashlight_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Flashlight1/flashlight_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Flashlight1/flashlight_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Flashlight1/flashlight_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Grip1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Grip1/grip_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Grip1/grip_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Grip1/grip_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Grip1/grip_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope1/scope_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope1/scope_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope1/scope_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope1/scope_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope2/scope_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope2/scope_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope2/scope_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope2/scope_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope3/scope_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope3/scope_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope3/scope_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope3/scope_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope4.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope4/scope_4.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope4/scope_4.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope4/scope_4.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope4/scope_4.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope5.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope5/scope_5.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope5/scope_5.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope5/scope_5.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Scope5/scope_5.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight1/sight_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight1/sight_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight1/sight_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight1/sight_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight2/sight_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight2/sight_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight2/sight_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight2/sight_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight3/sight_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight3/sight_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight3/sight_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Sight3/sight_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Silencer1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Silencer1/silencer_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Silencer1/silencer_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Silencer1/silencer_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments/Silencer1/silencer_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets/CombinedAssets1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets/CombinedAssets1/combined_assets_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets/CombinedAssets1/combined_assets_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets/CombinedAssets1/combined_assets_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets/CombinedAssets1/combined_assets_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive1/explosive_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive1/explosive_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive1/explosive_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive1/explosive_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive2/explosive_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive2/explosive_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive2/explosive_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive2/explosive_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive3/explosive_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive3/explosive_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive3/explosive_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive3/explosive_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive4.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive4/explosive_4.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive4/explosive_4.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive4/explosive_4.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives/Explosive4/explosive_4.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6/machine_gun_6.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6/machine_gun_6.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6/machine_gun_6.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6/machine_gun_6.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol1/pistol_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol1/pistol_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol1/pistol_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol1/pistol_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol2/pistol_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol2/pistol_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol2/pistol_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol2/pistol_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol3/pistol_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol3/pistol_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol3/pistol_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols/Pistol3/pistol_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle1/rifle_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle1/rifle_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle1/rifle_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle1/rifle_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle2/rifle_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle2/rifle_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle2/rifle_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle2/rifle_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle3/rifle_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle3/rifle_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle3/rifle_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles/Rifle3/rifle_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1/rocket_launcher_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1/rocket_launcher_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1/rocket_launcher_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1/rocket_launcher_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun1/submachine_gun_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun1/submachine_gun_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun1/submachine_gun_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun1/submachine_gun_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun2/submachine_gun_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun2/submachine_gun_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun2/submachine_gun_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun2/submachine_gun_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun3.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun3/submachine_gun_3.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun3/submachine_gun_3.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun3/submachine_gun_3.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun3/submachine_gun_3.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun4.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun4/submachine_gun_4.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun4/submachine_gun_4.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun4/submachine_gun_4.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun4/submachine_gun_4.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun5.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun5/submachine_gun_5.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun5/submachine_gun_5.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun5/submachine_gun_5.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns/SubmachineGun5/submachine_gun_5.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat1/bat_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat1/bat_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat1/bat_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat1/bat_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat2/bat_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat2/bat_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat2/bat_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Bats/Bat2/bat_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Hammers.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Hammers/Hammer1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Hammers/Hammer1/hammer_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Hammers/Hammer1/hammer_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Hammers/Hammer1/hammer_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Hammers/Hammer1/hammer_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive1/knive_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive1/knive_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive1/knive_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive1/knive_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive2.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive2/knive_2.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive2/knive_2.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive2/knive_2.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Knive/Knive2/knive_2.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Swords.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Swords/Sword1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Swords/Sword1/sword_1.fbx
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Swords/Sword1/sword_1.fbx.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Swords/Sword1/sword_1.prefab
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee/Swords/Sword1/sword_1.prefab.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures/atlass_1_diffuse.png
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures/atlass_1_diffuse.png.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles/Post-Processing
+      Profile.asset
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles/Post-Processing
+      Profile.asset.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1.unity
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1.unity.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1/LightingData.asset
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1/LightingData.asset.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility/FlyCameraBehaviour.cs
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility/FlyCameraBehaviour.cs.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders.meta
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders/Diffuse.shader
+    - Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders/Diffuse.shader.meta
+    - Assets/AllSkyFree.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AdditiveSprite.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AdditiveSprite.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSkyDemoEnvironment_Unity4.prefab
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSkyDemoEnvironment_Unity4.prefab.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment.fbx
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment.fbx.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment02.fbx
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment02.fbx.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment_Center.fbx
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment_Center.fbx.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment_Light.fbx
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_DemoEnvironment_Light.fbx.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_Logo.png
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/AllSky_Logo.png.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/BlackTransparentGradient.png
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/BlackTransparentGradient.png.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/HowToUpResSkies.png
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/HowToUpResSkies.png.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Building.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Building.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_FlagGreen.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_FlagGreen.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Rock.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_Rock.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_SphereSkyReflect.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_SphereSkyReflect.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeLeaves.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeLeaves.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/Landscape.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/Landscape.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeLeaves.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeLeaves.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeTrunk.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/TreeTrunk.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/rock.mat
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Materials/rock.mat.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Moon Glare.flare
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Moon Glare.flare.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/MoonGlow.prefab
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/MoonGlow.prefab.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Mountain Glare.flare
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Mountain Glare.flare.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Sun Glare.flare
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/Sun Glare.flare.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/SunGlare.psd
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/SunGlare.psd.meta
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/SunGlow.prefab
+    - Assets/AllSkyFree/AllSkyDemoEnvironment/SunGlow.prefab.meta
+    - Assets/AllSkyFree/AllSkyFree_Menu.cs
+    - Assets/AllSkyFree/AllSkyFree_Menu.cs.meta
+    - Assets/AllSkyFree/AllSkyFree_Readme.txt
+    - Assets/AllSkyFree/AllSkyFree_Readme.txt.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.mat
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.mat.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.unity
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.unity.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Equirect.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Equirect.png.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.mat
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.mat.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.unity
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.unity.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_2_Left+X.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_3_Right-X.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Cold Night.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat
+    - Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night Equirect.png
+    - Assets/AllSkyFree/Cold Night/Cold Night Equirect.png.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night.mat
+    - Assets/AllSkyFree/Cold Night/Cold Night.mat.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night.unity
+    - Assets/AllSkyFree/Cold Night/Cold Night.unity.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_2_Left+X.png
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_3_Right-X.png
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Cold Night/Cold Night__Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Cold Sunset.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.mat
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.mat.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset.mat
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset.mat.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset.unity
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset.unity.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_2_Left+X.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_3_Right-X.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Deep Dusk.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.png.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk.mat
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk.mat.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk.unity
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk.unity.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_2_Left+X.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_3_Right-X.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.mat
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.mat.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.unity
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.unity.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_2_Left+X.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_3_Right-X.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_EquiRect_flat.png
+    - Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_EquiRect_flat.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink Equirect.mat
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink Equirect.mat.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.mat
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.mat.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.unity
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.unity.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_2_Left+X.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_3_Right-X.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_EquiRect.png
+    - Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_EquiRect.png.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Materials.meta
+    - Assets/AllSkyFree/Epic_GloriousPink/Materials/Epic_GloriousPink_EquiRect.mat
+    - Assets/AllSkyFree/Epic_GloriousPink/Materials/Epic_GloriousPink_EquiRect.mat.meta
+    - Assets/AllSkyFree/Night MoonBurst.meta
+    - Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.mat
+    - Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.mat.meta
+    - Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.png
+    - Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.png.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.mat
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.mat.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.unity
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.unity.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_2_Left+X.png
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_3_Right-X.png
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_5_Down-Y.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.mat
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.mat.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.mat
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.mat.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.unity
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.unity.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_2_Left+X.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_2_Left+X.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_3_Right-X.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_3_Right-X.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png.meta
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png
+    - Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png.meta
     - Assets/Enemy.cs
+    - Assets/Enemy.cs.meta
+    - Assets/Gizmos.meta
+    - Assets/Gizmos/brush_0.png
+    - Assets/Gizmos/brush_0.png.meta
+    - Assets/Gizmos/brush_1.png
+    - Assets/Gizmos/brush_1.png.meta
+    - Assets/Gizmos/brush_10.png
+    - Assets/Gizmos/brush_10.png.meta
+    - Assets/Gizmos/brush_11.png
+    - Assets/Gizmos/brush_11.png.meta
+    - Assets/Gizmos/brush_12.png
+    - Assets/Gizmos/brush_12.png.meta
+    - Assets/Gizmos/brush_13.png
+    - Assets/Gizmos/brush_13.png.meta
+    - Assets/Gizmos/brush_14.png
+    - Assets/Gizmos/brush_14.png.meta
+    - Assets/Gizmos/brush_15.png
+    - Assets/Gizmos/brush_15.png.meta
+    - Assets/Gizmos/brush_16.png
+    - Assets/Gizmos/brush_16.png.meta
+    - Assets/Gizmos/brush_17.png
+    - Assets/Gizmos/brush_17.png.meta
+    - Assets/Gizmos/brush_18.png
+    - Assets/Gizmos/brush_18.png.meta
+    - Assets/Gizmos/brush_19.png
+    - Assets/Gizmos/brush_19.png.meta
+    - Assets/Gizmos/brush_2.png
+    - Assets/Gizmos/brush_2.png.meta
+    - Assets/Gizmos/brush_20.png
+    - Assets/Gizmos/brush_20.png.meta
+    - Assets/Gizmos/brush_21.png
+    - Assets/Gizmos/brush_21.png.meta
+    - Assets/Gizmos/brush_22.png
+    - Assets/Gizmos/brush_22.png.meta
+    - Assets/Gizmos/brush_23.png
+    - Assets/Gizmos/brush_23.png.meta
+    - Assets/Gizmos/brush_24.png
+    - Assets/Gizmos/brush_24.png.meta
+    - Assets/Gizmos/brush_25.png
+    - Assets/Gizmos/brush_25.png.meta
+    - Assets/Gizmos/brush_26.png
+    - Assets/Gizmos/brush_26.png.meta
+    - Assets/Gizmos/brush_27.png
+    - Assets/Gizmos/brush_27.png.meta
+    - Assets/Gizmos/brush_28.png
+    - Assets/Gizmos/brush_28.png.meta
+    - Assets/Gizmos/brush_29.png
+    - Assets/Gizmos/brush_29.png.meta
+    - Assets/Gizmos/brush_3.png
+    - Assets/Gizmos/brush_3.png.meta
+    - Assets/Gizmos/brush_30.png
+    - Assets/Gizmos/brush_30.png.meta
+    - Assets/Gizmos/brush_31.png
+    - Assets/Gizmos/brush_31.png.meta
+    - Assets/Gizmos/brush_32.png
+    - Assets/Gizmos/brush_32.png.meta
+    - Assets/Gizmos/brush_33.png
+    - Assets/Gizmos/brush_33.png.meta
+    - Assets/Gizmos/brush_34.png
+    - Assets/Gizmos/brush_34.png.meta
+    - Assets/Gizmos/brush_4.png
+    - Assets/Gizmos/brush_4.png.meta
+    - Assets/Gizmos/brush_5.png
+    - Assets/Gizmos/brush_5.png.meta
+    - Assets/Gizmos/brush_6.png
+    - Assets/Gizmos/brush_6.png.meta
+    - Assets/Gizmos/brush_7.png
+    - Assets/Gizmos/brush_7.png.meta
+    - Assets/Gizmos/brush_8.png
+    - Assets/Gizmos/brush_8.png.meta
+    - Assets/Gizmos/brush_9.png
+    - Assets/Gizmos/brush_9.png.meta
+    - Assets/Gun.cs
+    - Assets/Gun.cs.meta
+    - Assets/HealthComponent.cs
+    - Assets/HealthComponent.cs.meta
+    - Assets/MainMenu.cs
+    - Assets/MainMenu.cs.meta
+    - Assets/Materil.mat
+    - Assets/Materil.mat.meta
+    - Assets/Menu.unity
+    - Assets/Menu.unity.meta
+    - Assets/MouseLook.cs
+    - Assets/MouseLook.cs.meta
+    - Assets/New Material.mat
+    - Assets/New Material.mat.meta
+    - Assets/New Terrain 1.asset
+    - Assets/New Terrain 1.asset.meta
+    - Assets/New Terrain 2.asset
+    - Assets/New Terrain 2.asset.meta
+    - Assets/New Terrain 3.asset
+    - Assets/New Terrain 3.asset.meta
+    - Assets/New Terrain 4.asset
+    - Assets/New Terrain 4.asset.meta
+    - Assets/New Terrain 5.asset
+    - Assets/New Terrain 5.asset.meta
+    - Assets/New Terrain 6.asset
+    - Assets/New Terrain 6.asset.meta
+    - Assets/New Terrain.asset
+    - Assets/New Terrain.asset.meta
+    - Assets/Overcast Low.meta
+    - Assets/Overcast Low/AllSky_Overcast4_Low Equirect.mat
+    - Assets/Overcast Low/AllSky_Overcast4_Low Equirect.mat.meta
+    - Assets/Overcast Low/AllSky_Overcast4_Low.mat
+    - Assets/Overcast Low/AllSky_Overcast4_Low.mat.meta
+    - Assets/Overcast Low/AllSky_Overcast4_Low.png
+    - Assets/Overcast Low/AllSky_Overcast4_Low.png.meta
+    - Assets/Overcast Low/AllSky_Overcast4_Low.unity
+    - Assets/Overcast Low/AllSky_Overcast4_Low.unity.meta
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png.meta
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png.meta
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png.meta
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png.meta
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png.meta
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png
+    - Assets/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png.meta
+    - Assets/PickupObject.cs
+    - Assets/PickupObject.cs.meta
+    - Assets/PlayerMovement.cs
+    - Assets/PlayerMovement.cs.meta
+    - Assets/Polygonal Metalon.meta
+    - Assets/Polygonal Metalon/Animators.meta
+    - Assets/Polygonal Metalon/Animators/Demo.controller
+    - Assets/Polygonal Metalon/Animators/Demo.controller.meta
+    - Assets/Polygonal Metalon/Animators/Polygonal Metalon.controller
+    - Assets/Polygonal Metalon/Animators/Polygonal Metalon.controller.meta
+    - Assets/Polygonal Metalon/Demo Assets.meta
+    - Assets/Polygonal Metalon/Demo Assets/Base Prefabs.prefab
+    - Assets/Polygonal Metalon/Demo Assets/Base Prefabs.prefab.meta
+    - Assets/Polygonal Metalon/Demo Assets/Base.FBX
+    - Assets/Polygonal Metalon/Demo Assets/Base.FBX.meta
+    - Assets/Polygonal Metalon/Demo Assets/Demo Ground 1.mat
+    - Assets/Polygonal Metalon/Demo Assets/Demo Ground 1.mat.meta
+    - Assets/Polygonal Metalon/Demo Assets/Polygonal Creatures.asset
+    - Assets/Polygonal Metalon/Demo Assets/Polygonal Creatures.asset.meta
+    - Assets/Polygonal Metalon/Demo Assets/Rotate.anim
+    - Assets/Polygonal Metalon/Demo Assets/Rotate.anim.meta
+    - Assets/Polygonal Metalon/Demo Assets/Rotate.controller
+    - Assets/Polygonal Metalon/Demo Assets/Rotate.controller.meta
+    - Assets/Polygonal Metalon/FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Cast Spell.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Cast Spell.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Defend.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Defend.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Die.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Die.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Idle.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Idle.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Jump In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Jump In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Jump W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Jump W Root.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Backward In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Backward In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Backward W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Backward W Root.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Forward In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Forward In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Forward W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Run Forward W Root.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Smash Attack.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Smash Attack.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Stab Attack.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Stab Attack.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Left In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Left In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Left W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Left W Root.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Right In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Right In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Right W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Strafe Right W Root.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Take Damage.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Take Damage.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Turn Left.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Turn Left.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Turn Right.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Turn Right.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Backward In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Backward In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Backward W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Backward W Root.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Forward In Place.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Forward In Place.FBX.meta
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Forward W Root.FBX
+    - Assets/Polygonal Metalon/FBX/Polygonal Metalon@Walk Forward W Root.FBX.meta
+    - Assets/Polygonal Metalon/Materials.meta
+    - Assets/Polygonal Metalon/Materials/Polygonal Metalon Green.mat
+    - Assets/Polygonal Metalon/Materials/Polygonal Metalon Green.mat.meta
+    - Assets/Polygonal Metalon/Materials/Polygonal Metalon Purple.mat
+    - Assets/Polygonal Metalon/Materials/Polygonal Metalon Purple.mat.meta
+    - Assets/Polygonal Metalon/Materials/Polygonal Metalon Red.mat
+    - Assets/Polygonal Metalon/Materials/Polygonal Metalon Red.mat.meta
+    - Assets/Polygonal Metalon/Prefabs.meta
+    - Assets/Polygonal Metalon/Prefabs/Polygonal Metalon Green.prefab
+    - Assets/Polygonal Metalon/Prefabs/Polygonal Metalon Green.prefab.meta
+    - Assets/Polygonal Metalon/Prefabs/Polygonal Metalon Purple.prefab
+    - Assets/Polygonal Metalon/Prefabs/Polygonal Metalon Purple.prefab.meta
+    - Assets/Polygonal Metalon/Prefabs/Polygonal Metalon Red.prefab
+    - Assets/Polygonal Metalon/Prefabs/Polygonal Metalon Red.prefab.meta
+    - Assets/Polygonal Metalon/READ ME.meta
+    - Assets/Polygonal Metalon/READ ME/Polygonal Series Guide.pdf
+    - Assets/Polygonal Metalon/READ ME/Polygonal Series Guide.pdf.meta
+    - Assets/Polygonal Metalon/Scenes.meta
+    - Assets/Polygonal Metalon/Scenes/Demo.unity
+    - Assets/Polygonal Metalon/Scenes/Demo.unity.meta
+    - Assets/Polygonal Metalon/Textures.meta
+    - Assets/Polygonal Metalon/Textures/Polygonal Metalon Green.psd
+    - Assets/Polygonal Metalon/Textures/Polygonal Metalon Green.psd.meta
+    - Assets/Polygonal Metalon/Textures/Polygonal Metalon Purple.psd
+    - Assets/Polygonal Metalon/Textures/Polygonal Metalon Purple.psd.meta
+    - Assets/Polygonal Metalon/Textures/Polygonal Metalon Red.psd
+    - Assets/Polygonal Metalon/Textures/Polygonal Metalon Red.psd.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/TerrainData_054472ac-e682-45d9-bb9a-0d88c94246ec.asset
+    - Assets/TerrainData_054472ac-e682-45d9-bb9a-0d88c94246ec.asset.meta
+    - Assets/TerrainData_1a191c58-f112-4f8e-94f8-1e93476b0329.asset
+    - Assets/TerrainData_1a191c58-f112-4f8e-94f8-1e93476b0329.asset.meta
+    - Assets/TerrainData_2d75b685-e41d-4af3-8887-e5da46027a12.asset
+    - Assets/TerrainData_2d75b685-e41d-4af3-8887-e5da46027a12.asset.meta
+    - Assets/TerrainData_40a6e421-c733-4255-bd01-99e5a68d4a92.asset
+    - Assets/TerrainData_40a6e421-c733-4255-bd01-99e5a68d4a92.asset.meta
+    - Assets/TerrainData_432cc371-5a61-455b-b800-8a17da0a9cac.asset
+    - Assets/TerrainData_432cc371-5a61-455b-b800-8a17da0a9cac.asset.meta
+    - Assets/TerrainData_43946eae-3410-4462-a938-99b671053f57.asset
+    - Assets/TerrainData_43946eae-3410-4462-a938-99b671053f57.asset.meta
+    - Assets/TerrainData_48afeabf-f4e0-4ccc-bc9d-6043cf09b43a.asset
+    - Assets/TerrainData_48afeabf-f4e0-4ccc-bc9d-6043cf09b43a.asset.meta
+    - Assets/TerrainData_4dc2bd85-08ef-448d-a5ae-62ea2e8a06d8.asset
+    - Assets/TerrainData_4dc2bd85-08ef-448d-a5ae-62ea2e8a06d8.asset.meta
+    - Assets/TerrainData_54e4ab3b-d05b-47f4-91e9-bb1c9267264d.asset
+    - Assets/TerrainData_54e4ab3b-d05b-47f4-91e9-bb1c9267264d.asset.meta
+    - Assets/TerrainData_5e8a00fb-3f39-47ce-bdcf-c955435182b7.asset
+    - Assets/TerrainData_5e8a00fb-3f39-47ce-bdcf-c955435182b7.asset.meta
+    - Assets/TerrainData_64026a0f-dd3b-42ec-b100-540869df6782.asset
+    - Assets/TerrainData_64026a0f-dd3b-42ec-b100-540869df6782.asset.meta
+    - Assets/TerrainData_65166763-1d28-4a5f-ab27-537ac619b553.asset
+    - Assets/TerrainData_65166763-1d28-4a5f-ab27-537ac619b553.asset.meta
+    - Assets/TerrainData_77a9290b-98a9-42a5-a834-94f846671766.asset
+    - Assets/TerrainData_77a9290b-98a9-42a5-a834-94f846671766.asset.meta
+    - Assets/TerrainData_7d4c47d3-fc03-4980-a571-a45c6d9054eb.asset
+    - Assets/TerrainData_7d4c47d3-fc03-4980-a571-a45c6d9054eb.asset.meta
+    - Assets/TerrainData_a7324d7e-5129-4c82-a1fc-7538175eb270.asset
+    - Assets/TerrainData_a7324d7e-5129-4c82-a1fc-7538175eb270.asset.meta
+    - Assets/TerrainData_acbc6b0f-3c8c-4ace-9dc6-517e510aed28.asset
+    - Assets/TerrainData_acbc6b0f-3c8c-4ace-9dc6-517e510aed28.asset.meta
+    - Assets/TerrainData_af8585c5-7328-482d-a90b-cd3164f58c04.asset
+    - Assets/TerrainData_af8585c5-7328-482d-a90b-cd3164f58c04.asset.meta
+    - Assets/TerrainData_b9706cc3-0f82-416d-9b43-5334ad5ce4aa.asset
+    - Assets/TerrainData_b9706cc3-0f82-416d-9b43-5334ad5ce4aa.asset.meta
+    - Assets/TerrainData_c62267e2-4082-48f2-80e4-df9e28918958.asset
+    - Assets/TerrainData_c62267e2-4082-48f2-80e4-df9e28918958.asset.meta
+    - Assets/TerrainData_dc1a64b1-17d8-4270-a633-5ff089558fe3.asset
+    - Assets/TerrainData_dc1a64b1-17d8-4270-a633-5ff089558fe3.asset.meta
+    - Assets/TerrainData_df0f4117-9400-4fa1-b0f2-81b750820c6e.asset
+    - Assets/TerrainData_df0f4117-9400-4fa1-b0f2-81b750820c6e.asset.meta
+    - Assets/TerrainData_f270ad2e-9dd4-44d9-82e7-8b4803d09368.asset
+    - Assets/TerrainData_f270ad2e-9dd4-44d9-82e7-8b4803d09368.asset.meta
+    - Assets/TerrainData_f82964f2-727a-4a54-a8ea-c68cbb76cf60.asset
+    - Assets/TerrainData_f82964f2-727a-4a54-a8ea-c68cbb76cf60.asset.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/WeaponSwitching.cs
+    - Assets/WeaponSwitching.cs.meta
+    - Assets/index.jpg
+    - Assets/index.jpg.meta
+    - Assets/polyforestbackground.jpg
+    - Assets/polyforestbackground.jpg.meta
+    - Assets/unbound.13.unity
+    - Assets/unbound.13.unity.meta
     - Assets/unbound1.4.meta
     - Assets/unbound1.4.unity
+    - Assets/unbound1.4.unity.meta
     - Assets/unbound1.4/NavMesh.asset
     - Assets/unbound1.4/NavMesh.asset.meta
     - 
-    m_Values: 000000000000
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

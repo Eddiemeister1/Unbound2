@@ -9,6 +9,7 @@ public class Enemy : MonoBehaviour
 
     public float health = 50f;
     public float agentDistanceRun = 4.0f;
+    public float damage = 10f;
     public void TakeDamage(float amount) {
 
         health -= amount;
