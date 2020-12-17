@@ -6,7 +6,6 @@ public class Enemy : MonoBehaviour
     private NavMeshAgent agent;
 
     public GameObject target;
-
     public float health = 50f;
     public float agentDistanceRun = 4.0f;
     public float damage = 10f;
@@ -21,7 +20,6 @@ public class Enemy : MonoBehaviour
     void Die() {
         Destroy(gameObject);
     }
-
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();

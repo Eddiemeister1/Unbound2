@@ -61,10 +61,11 @@
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\MouseLook.cs" />
+    <Compile Include="Assets\HealthComponent.cs" />
     <Compile Include="Assets\Aligned Games\Polygonal Modern Weapons Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
     <Compile Include="Assets\PickupObject.cs" />
     <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
-    <Compile Include="Assets\HealthComponent.cs" />
+    <Compile Include="Assets\Restart.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

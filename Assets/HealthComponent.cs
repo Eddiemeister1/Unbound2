@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿using System.Collections; 
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,28 +7,34 @@ public class HealthComponent : MonoBehaviour
     public Slider healthslider;
     public float maxHealth;
     public static float currentHealth;
+    public float damage = 20f;
+    public GameObject DeathCanvas;
+    // Start is called before the first frame update
+    void Start()
+    {
+        healthslider.value = maxHealth;
+        currentHealth = maxHealth;
+        print(healthslider.value);
+        DeathCanvas.SetActive(false);
+    }
+
     //This method provides collision data for the enemies that collide with the player
     void OnCollisionEnter(Collision collision)
     {
         //This is the enemy in which it collided with the player
-        Enemy other = collision.gameObject.GetComponent<Enemy>();
-        if (other)
+        if (collision.gameObject.CompareTag("Enemy"))
         {
             //If the enemy collided with the player, then the player loses health
-            currentHealth -= other.damage;
+            currentHealth -= damage;
             healthslider.value = currentHealth;
+            print(healthslider.value);
+            Debug.Log("Im colliding");
         }
-    }
-    // Start is called before the first frame update
-    void Start()
-    {
-        currentHealth = maxHealth;
-    }
-    // Update is called once per frame
-    void Update()
-    {
-        //If the player's health is at or below 0,...
-        healthslider.value = currentHealth;
-        
+
+        if(healthslider.value <= 0)
+        {
+            DeathCanvas.SetActive(true);
+            Cursor.visible = true;
+        }
     }
 }
